@@ -1,9 +1,9 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">
 My name is Iris, I'm a fullstack software engineer from SF 🌉
-- 🔭 Working on multiple frontend and backend projects using Javascript, React, Express, and Nodejs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Docker and System Architecture Design
-- 💞️ I’m looking to collaborate on ...
+- 🔭 Working on fullstack applications using Javascript, React, Express, and Nodejs
+- 🧠 I’m in constant pursuit of self-improvement
+- 🌱 I intend to learn Typescript and Vue.js next
+- 💞️ I’m looking to collaborate on building fullstack apps!
 - ⚡ Fun facts: I'm a huge Harry Potter Fan, podcasts enthusiast, and love to nerd out on anything and everything health related! 
     
 
