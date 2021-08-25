@@ -1,7 +1,10 @@
 <h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"></h1>
-My name is Iris, I'm a fullstack software engineer from SF. 🌉 I am passionate about learning and using technology to solve problems and make a difference. 
+<h3 align="center">My name is Iris, I'm a fullstack software engineer based in SF 🌉 
 
-I have experience building scalable fullstack applications with Javascript, React, Node, Express, SQl and NoSQL databases, containerized with Docker and deployed to AWS
+  I am passionate about learning and using technology to solve problems and make a difference💪 
+</h3>
+
+
 
 ![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=irisj23&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=irisj23&theme=tokyonight)](https://github.com/irisj23)
@@ -9,7 +12,7 @@ I have experience building scalable fullstack applications with Javascript, Reac
 [![Iris' Trophies](https://github-profile-trophy.vercel.app/?username=irisj23&theme=radical&column=4&margin-w=6&margin-h=5&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-- 🔭 Working on fullstack applications using Javascript, React, Express, and Nodejs
+- 🔭 Working on fullstack applications using **Javascript, React, Express, and Nodejs**
 - 🧠 I’m in constant pursuit of self-improvement
 - 🌱 I am currently learning **TypeScript**, practising **Data Structures & Algorithms**
 - 💞️ I’m looking to collaborate on building fullstack apps!
@@ -25,10 +28,25 @@ I have experience building scalable fullstack applications with Javascript, Reac
 <br>
 
 ## Experience
-<img align="left" alt="aws" src="https://img.shields.io/badge/javascript-js-orange?style=for-the-badge&logo=appveyor" />
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+
+_I have experience building scalable fullstack applications with Javascript, React, Node, Express, SQl and NoSQL databases, containerized with Docker and deployed to AWS_
+
+
+### Front-end ・ UI
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+
+### Back-end ・ Server-side
+
+<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+
+### Server ・ Database ・ Hosting
+
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+
 
 <br>
 <br>
