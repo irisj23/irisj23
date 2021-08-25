@@ -7,9 +7,9 @@
 
 <br>
 
-![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=irisj23&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
+![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=irisj23&hide=stars&count_private=true&show_icons=true&theme=radical)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=irisj23&theme=tokyonight)](https://github.com/irisj23)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=irisj23&theme=radical)](https://github.com/irisj23)
 
 [![Iris' Trophies](https://github-profile-trophy.vercel.app/?username=irisj23&theme=radical&column=4&margin-w=6&margin-h=5&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
