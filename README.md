@@ -17,7 +17,7 @@
 - 🧠 I’m in constant pursuit of self-improvement
 - 🌱 I am currently learning **TypeScript**, practising **Data Structures & Algorithms**
 - 💞️ I’m looking to collaborate on building fullstack apps!
-- ⚡ Fun facts: I'm a huge Harry Potter Fan, podcasts enthusiast, and love to nerd out on anything and everything health related! 
+- ⚡ Fun facts: I'm a huge Harry Potter fan, podcasts enthusiast, and love to nerd out on anything and everything health related! 
 
 ## Experience
 
