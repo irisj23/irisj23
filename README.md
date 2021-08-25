@@ -13,9 +13,6 @@
 
 [![Iris' Trophies](https://github-profile-trophy.vercel.app/?username=irisj23&theme=radical&column=4&margin-w=6&margin-h=5&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Iris' Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=irisj23&show_icons=true&locale=en&theme=radical)](https://github.com/irisj23)
-
-
 - 🔭 Working on fullstack applications using **Javascript, React, Express, and Nodejs**
 - 🧠 I’m in constant pursuit of self-improvement
 - 🌱 I am currently learning **TypeScript**, practising **Data Structures & Algorithms**
