@@ -1,4 +1,4 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px">
+<h1 align="center">Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23px"></h1>
 My name is Iris, I'm a fullstack software engineer from SF. 🌉 I am passionate about learning and using technology to solve problems and make a difference. 
 
 I have experience building scalable fullstack applications with Javascript, React, Node, Express, SQl and NoSQL databases, containerized with Docker and deployed to AWS
