@@ -4,7 +4,7 @@
 <h3 align="center">I'm a full-stack Software Engineer based in SF 🌉 </h3>
 
 <h3 align="center">
-  I am passionate about learning, building and leveraging technology to solve problems and make a difference💪 
+  I am passionate about learning, building, and leveraging technology to solve problems and make a difference💪 
 </h3>
 
 
