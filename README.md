@@ -20,7 +20,7 @@
 - 🧠 I’m in constant pursuit of self-improvement
 - 🌱 I am currently learning **TypeScript**, practising **Data Structures & Algorithms**
 - 💞️ I’m looking to collaborate on building fullstack apps!
-- 📫 How to reach me: **irisxjiang@gmail.com**
+- 📫 How to reach me: **irisxjiang@gmail.com, https://www.linkedin.com/in/irisxuejiang**
 - ⚡ Fun facts: I'm a huge Harry Potter fan, podcasts enthusiast, and love to nerd out on anything and everything health related! 
 
 ## Experience
