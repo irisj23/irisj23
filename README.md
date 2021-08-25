@@ -20,6 +20,7 @@
 - 🧠 I’m in constant pursuit of self-improvement
 - 🌱 I am currently learning **TypeScript**, practising **Data Structures & Algorithms**
 - 💞️ I’m looking to collaborate on building fullstack apps!
+- 📫 How to reach me: **irisxjiang@gmail.com**
 - ⚡ Fun facts: I'm a huge Harry Potter fan, podcasts enthusiast, and love to nerd out on anything and everything health related! 
 
 ## Experience
@@ -62,7 +63,10 @@ _I have experience building scalable fullstack applications with Javascript, Rea
 
 
 
-## 📫 Connect with me
+## 📫 Connect with me!
+
+<a href="mailto:irisxjiang@gmail.com" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="narro" height="30" width="40" />irisxjiang@gmail.com</a>
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/irisxuejiang)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]()
 <!---
