@@ -21,7 +21,7 @@
 
 ## Experience
 
-_I have experience building scalable fullstack applications with Javascript, React, Node, Express, SQl and NoSQL databases, containerized with Docker and deployed to AWS_
+_I have experience building scalable fullstack applications with Javascript, React, Node, Express, SQL and NoSQL databases, containerized with Docker and deployed to AWS_
 
 
 ### Front-end ・ UI
