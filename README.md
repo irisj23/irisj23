@@ -10,13 +10,6 @@
 
 <br>
 
-![Iris' GitHub stats](https://github-readme-stats.vercel.app/api?username=irisj23&hide=stars&count_private=true&show_icons=true&theme=radical)
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=irisj23&theme=radical)](https://github.com/irisj23)
-
-[![Iris' Trophies](https://github-profile-trophy.vercel.app/?username=irisj23&theme=radical&column=4&margin-w=6&margin-h=5&title=Commit,PullRequest,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-
-- 🔭 Working on fullstack applications using **Javascript, React, Express, and Nodejs**
 - 🧠 I’m in constant pursuit of self-improvement
 - 🌱 I am currently learning **TypeScript**, practising **Data Structures & Algorithms**
 - 💞️ I’m looking to collaborate on building fullstack apps!
@@ -25,7 +18,7 @@
 
 ## Experience
 
-_I have experience building scalable fullstack applications with Javascript, React, Node, Express, SQL and NoSQL databases, containerized with Docker and deployed to AWS_
+_I have experience building scalable fullstack applications with Javascript, Typescript, React, Node, GraphQL, Express, Prisma, SQL and NoSQL databases, containerized with Docker and deployed to AWS_
 
 
 ### Front-end ・ UI
