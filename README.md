@@ -10,7 +10,7 @@
 
 <br>
 
-- 🧠 I’m in constant pursuit of self-improvement
+- 🧠 Constant pursuit of self-improvement
 -  My blogs :) **https://medium.com/@irisxjiang**
 - ⚡ Fun facts: I'm a huge Harry Potter fan, podcasts enthusiast, and love to nerd out on anything and everything health related! 
 
